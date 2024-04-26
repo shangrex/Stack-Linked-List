@@ -1,6 +1,6 @@
 # A implementation of Stack using linked list in C
 
-## Compile 
+## compile 
 ```
 make all
 ```
